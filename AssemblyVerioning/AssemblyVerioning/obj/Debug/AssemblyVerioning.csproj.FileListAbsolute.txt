@@ -1,0 +1,6 @@
+C:\_Personal\SelfPractice\ProjectVersioning\AssemblyVerioning\AssemblyVerioning\bin\Debug\AssemblyVerioning.exe.config
+C:\_Personal\SelfPractice\ProjectVersioning\AssemblyVerioning\AssemblyVerioning\bin\Debug\AssemblyVerioning.exe
+C:\_Personal\SelfPractice\ProjectVersioning\AssemblyVerioning\AssemblyVerioning\bin\Debug\AssemblyVerioning.pdb
+C:\_Personal\SelfPractice\ProjectVersioning\AssemblyVerioning\AssemblyVerioning\obj\Debug\AssemblyVerioning.csprojResolveAssemblyReference.cache
+C:\_Personal\SelfPractice\ProjectVersioning\AssemblyVerioning\AssemblyVerioning\obj\Debug\AssemblyVerioning.exe
+C:\_Personal\SelfPractice\ProjectVersioning\AssemblyVerioning\AssemblyVerioning\obj\Debug\AssemblyVerioning.pdb
