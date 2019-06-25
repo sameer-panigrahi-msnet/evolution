@@ -1,0 +1,6 @@
+C:\_Personal\SelfPractice\ProjectVersioning\MSBuild_Extension_Pack_ProjectVersioning\MSBuildVersioning\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\_Personal\SelfPractice\ProjectVersioning\MSBuild_Extension_Pack_ProjectVersioning\MSBuildVersioning\HelloWorld\bin\Debug\HelloWorld.exe
+C:\_Personal\SelfPractice\ProjectVersioning\MSBuild_Extension_Pack_ProjectVersioning\MSBuildVersioning\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\_Personal\SelfPractice\ProjectVersioning\MSBuild_Extension_Pack_ProjectVersioning\MSBuildVersioning\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\_Personal\SelfPractice\ProjectVersioning\MSBuild_Extension_Pack_ProjectVersioning\MSBuildVersioning\HelloWorld\obj\Debug\HelloWorld.exe
+C:\_Personal\SelfPractice\ProjectVersioning\MSBuild_Extension_Pack_ProjectVersioning\MSBuildVersioning\HelloWorld\obj\Debug\HelloWorld.pdb
