@@ -14,5 +14,5 @@ install:
               Write-Host "Nuget Component Version:" $env:component_version
 build: off
 artifacts:
-- path: '\MY_CICD_POC\Artifact.zip'
+- path: '\ConsoleApp1\TestArtifact.zip'
   name: TestDeployment
