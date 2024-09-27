@@ -1,0 +1,7 @@
+C:\_Personal\Personal Learning\AutomAtionCICDHelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\_Personal\Personal Learning\AutomAtionCICDHelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\_Personal\Personal Learning\AutomAtionCICDHelloWorld\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\_Personal\Personal Learning\AutomAtionCICDHelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\_Personal\Personal Learning\AutomAtionCICDHelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\_Personal\Personal Learning\AutomAtionCICDHelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\_Personal\Personal Learning\AutomAtionCICDHelloWorld\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
